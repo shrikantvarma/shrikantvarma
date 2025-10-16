@@ -36,23 +36,19 @@
 ### 📂 Featured Projects
 | Project | Description | Tech |
 |----------|--------------|------|
-| [🧭 Admin LLM Search](https://github.com/ShrikantVarma/admin-llm-search) | RAG-based intelligent assistant that improves admin discoverability and productivity. | OpenAI, Pinecone, LangChain |
-| [📊 Social Listening Engine](https://github.com/ShrikantVarma/social-listening) | NLP pipeline identifying sentiment, intent, and actions from social streams. | BERT, GPT, FastAPI |
-| [⚙️ Chrome Extension – Contextual Q&A](https://github.com/ShrikantVarma/ai-chrome-assistant) | Side-panel extension for summarizing and clarifying highlighted text. | React, Claude API, Vite |
-
+|----------|--------------|------|
+|----------|--------------|------|
 ---
 
-### 📈 GitHub Stats
-![Shrikant's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShrikantVarma&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrikantVarma&layout=compact&theme=radical)
+
 
 ---
 
 ### 🌐 Let’s Connect
-💼 [LinkedIn](https://linkedin.com/in/shrikant-varma)  
-🧾 [Portfolio Website](https://shrikantvarma.github.io)  
+💼 [LinkedIn](https://linkedin.com/in/shrikantvarma)  
+🧾 [Portfolio Website](https://shrikantvarma.com)  
 ✍️ [Substack](https://substack.com/@shrikantvarma)  
-📧 shrikant.varma@gmail.com  
+📧 shrikant@shrikantvarma.com 
 
 ---
 
