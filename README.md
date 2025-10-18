@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Shrikant Varma  
-### Principal Product Manager | AI & SaaS Innovator | Builder of Intelligent Systems  
+### Principal Product Manager | AI Systems  
 
 🚀 10+ years of experience building data-driven SaaS products at scale — from 0→1 social listening platforms at SAP (>$80M ARR) to LLM-powered admin experiences at Zendesk.  
 💡 Currently Passionate about applying Generative AI to real-world business problems, especially in admin productivity, search, and insights automation.  
