@@ -36,8 +36,9 @@
 ### 📂 Featured Projects
 | Project | Description | Tech |
 |----------|--------------|------|
-|----------|--------------|------|
-|----------|--------------|------|
+| [Claude Session Browser](https://github.com/shrikantvarma/claude-session-browser) | Browse, search, and organize your past Claude Code sessions in a local web UI | TypeScript |
+| [Zero Friction Vault](https://github.com/shrikantvarma/zero-friction-vault) | A zero-friction Obsidian knowledge vault for capturing, processing, and retaining what you read | Shell |
+| [Conversational Meeting Scheduling](https://github.com/shrikantvarma/smart-meeting-scheduler) | Smart meeting scheduler | OpenAI, Langfuse, FastAPI, React |
 ---
 
 
