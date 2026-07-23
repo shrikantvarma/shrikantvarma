@@ -8,7 +8,7 @@
 
 ### 🧠 What I’m Working On
 - 🤖 **LLM RAG Search** — RAG-based intelligent search helping SaaS admins find answers faster.  
-- 🗣️ **Agentic Applications** — NLP-powered system detecting intent, sentiment & actionable insights from large-scale social data.  
+- 🗣️ **AI Agentic Applications** — NLP-powered system detecting intent, sentiment & actionable insights from large-scale social data.  
 - ⚙️ **Voice AI Agent** — Exploring multi-agent orchestration for proactive SaaS insights.  
 
 ---
