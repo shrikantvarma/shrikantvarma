@@ -30,6 +30,7 @@
 ![JIRA](https://img.shields.io/badge/-Jira-0052CC?logo=jira)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma)
 ![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion)
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C)
 
 ---
 
