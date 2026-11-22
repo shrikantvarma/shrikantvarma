@@ -1,61 +1,13 @@
-# 👋 Hi, I'm Shrikant Varma
-### Founder/Builder/Product Manager for AI Systems
+### Hi, I'm Shrikant.
 
-🚀 10+ years of experience building data-driven SaaS products at scale — from 0→1 social listening platforms to LLM-powered admin experiences.
-💡 Currently Passionate about applying Generative AI to real-world business problems, especially helping SMBs scale.
+I've led product and engineering teams at Zendesk and SAP. Today I run ThriveON, where I build AI products and help companies ship theirs. This is where the code lives.
 
----
+**Things I've made that you can use**
 
-### 🧠 What I’m Working On
-- 🤖 **LLM RAG Search** — RAG-based intelligent search helping SaaS admins find answers faster.
-- 🗣️ **AI Agentic Applications** — NLP-powered system detecting intent, sentiment & actionable insights from large-scale social data.
-- ⚙️ **Voice AI Agent** — Exploring multi-agent orchestration for proactive SaaS insights.
-- 🧩 **Multi-Agent Systems** — Designing multi-agent architectures with MCP for tool and context orchestration.
-- 📊 **Evals** — Building evaluation pipelines to measure and improve agent reliability.
+- [**hop**](https://github.com/shrikantvarma/hop): bookmark and jump between folders in zsh, with fuzzy search.
+- [**claude-session-browser**](https://github.com/shrikantvarma/claude-session-browser): browse and search your past Claude Code sessions in a local web UI.
+- [**zero-friction-vault**](https://github.com/shrikantvarma/zero-friction-vault): an Obsidian setup for capturing, processing and keeping what you read.
 
----
+**Elsewhere**
 
-### 🧩 My Strengths
-- 🪄 Vision & Strategy for AI-first SaaS Products
-- 🧮 Data-driven Decision-making
-- 🧭 Cross-functional Leadership (Eng, DS, Design, GTM)
-- 🧠 Technical Fluency in ML, RAG, agent architecture, multi-agent systems, evals, and LLM architectures
-
----
-
-### 🛠️ Tools & Tech I Work With
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![LLMs](https://img.shields.io/badge/-LLMs%20(OpenAI%2C%20Claude%2C%20Llama)-8A2BE2)
-![RAG](https://img.shields.io/badge/-RAG%20(Pinecone%2C%20LangChain%2C%20FAISS)-FFB703)
-![Agent Architecture](https://img.shields.io/badge/-Agent%20Architecture-FF6F00)
-![Multi-Agent Systems](https://img.shields.io/badge/-Multi--Agent%20Systems-4B0082)
-![MCP](https://img.shields.io/badge/-MCP-000000)
-![Evals](https://img.shields.io/badge/-Evals-2E8B57)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
-![JIRA](https://img.shields.io/badge/-Jira-0052CC?logo=jira)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma)
-![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion)
-![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C)
-
----
-
-### 📂 Featured Projects
-| Project | Description | Tech |
-|----------|--------------|------|
-| [Claude Session Browser](https://github.com/shrikantvarma/claude-session-browser) | Browse, search, and organize your past Claude Code sessions in a local web UI | TypeScript |
-| [Zero Friction Vault](https://github.com/shrikantvarma/zero-friction-vault) | A zero-friction Obsidian knowledge vault for capturing, processing, and retaining what you read | Shell |
-| [Conversational Meeting Scheduling](https://github.com/shrikantvarma/smart-meeting-scheduler) | Smart meeting scheduler | OpenAI, Langfuse, FastAPI, React |
----
-
----
-
-### 🌐 Let’s Connect
-💼 [LinkedIn](https://linkedin.com/in/shrikantvarma)
-🧾 [Portfolio Website](https://shrikantvarma.com)
-✍️ [Substack](https://substack.com/@shrikantvarma)
-📧 shrikant@shrikantvarma.com
-
----
-
-> “I’m fascinated by how LLMs change the way people interact with software — enabling intuition, not configuration.”
+[shrikantvarma.com](https://shrikantvarma.com) · [Articles on Substack](https://shrikantvarma.substack.com) · [LinkedIn](https://www.linkedin.com/in/shrikantvarma/)
