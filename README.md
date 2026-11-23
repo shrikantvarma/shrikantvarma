@@ -1,4 +1,7 @@
-Hi, I'm Shrikant.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hi-dark.gif">
+  <img src="assets/hi-light.gif" width="275" alt="Hi, I'm Shrikant.">
+</picture>
 
 I've led product and engineering teams at Zendesk and SAP. Today I run ThriveOn AI, where I build AI products and help companies ship theirs. I thrive at the intersection of technology, business, and human behavior—spotting unmet needs, identifying opportunities, and building solutions that deliver meaningful, measurable value.
 
