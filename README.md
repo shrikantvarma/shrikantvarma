@@ -1,10 +1,3 @@
-<p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.png">
-  <img alt="Shrikant Varma. Engineering and product leader. ThriveOn AI, Zendesk, SAP." src="assets/header-light.png" width="100%">
-</picture>
-</p>
-
 Hi, I'm Shrikant.
 
 I've led product and engineering teams at Zendesk and SAP. Today I run ThriveOn AI, where I build AI products and help companies ship theirs. I thrive at the intersection of technology, business, and human behavior—spotting unmet needs, identifying opportunities, and building solutions that deliver meaningful, measurable value.
