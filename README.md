@@ -4,11 +4,11 @@ I've led product and engineering teams at Zendesk and SAP. Today I run ThriveOn 
 
 **Products** · demos, architecture and results
 
-- [**AI Shift Scheduler**](https://github.com/shrikantvarma/ai-shift-scheduler): staff schedules from plain English that cannot break a labour rule.
-- [**Gentle Meditation Timer**](https://github.com/shrikantvarma/gentle-meditation-timer): a meditation app where a missed day never costs you your progress. Live on the App Store.
-- [**AI Meeting Scheduler**](https://github.com/shrikantvarma/ai-meeting-scheduler): book a meeting through a short chat, without showing anyone your calendar.
-- [**AI Restaurant Posts**](https://github.com/shrikantvarma/ai-restaurant-posts): a dish photo becomes an Instagram post, no copywriter needed.
-- [**Customer Communication Assistant**](https://github.com/shrikantvarma/customer-communication-assistant): drafts every customer reply in your business's voice. You approve; it never sends.
+- [**AI Shift Scheduler**](https://github.com/shrikantvarma/ai-shift-scheduler): staff schedules from plain English that cannot break a labour rule.<br>*Workforce ops · LLM + optimisation*
+- [**Gentle Meditation Timer**](https://github.com/shrikantvarma/gentle-meditation-timer): a meditation app where a missed day never costs you your progress. Live on the App Store.<br>*Consumer health · iOS app*
+- [**AI Meeting Scheduler**](https://github.com/shrikantvarma/ai-meeting-scheduler): book a meeting through a short chat, without showing anyone your calendar.<br>*Sales & scheduling · AI agent*
+- [**AI Restaurant Posts**](https://github.com/shrikantvarma/ai-restaurant-posts): a dish photo becomes an Instagram post, no copywriter needed.<br>*Small-business marketing · Mobile app*
+- [**Customer Communication Assistant**](https://github.com/shrikantvarma/customer-communication-assistant): drafts every customer reply in your business's voice. You approve; it never sends.<br>*Customer support · AI agent with human approval*
 
 **Open source**
 
